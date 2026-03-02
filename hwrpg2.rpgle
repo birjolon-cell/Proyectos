@@ -1,2 +1,2 @@
-     C     'HELLO'       DSPLY
+     C     'HELLO2'      DSPLY
      C                   SETON                                        LR
